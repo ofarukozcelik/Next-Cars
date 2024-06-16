@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "millify": "^6.1.0",
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^8.4.1",
+    "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.4"
+    "react-favicon": "^2.0.5",
+    "react-icons": "^5.2.1",
+    "stripe": "^15.11.0"
   },
   "devDependencies": {
     "postcss": "^8",
