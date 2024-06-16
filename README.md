@@ -14,4 +14,4 @@ Stripe üzerinden gerçek bir ödeme yöntemine sahip Next.js ile araç satış 
 ![](public/images/cars2.png)
 
 # GIF
-![](images/cars.gif)
+![](public/images/cars.gif)
